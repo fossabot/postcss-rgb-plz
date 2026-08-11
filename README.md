@@ -1,4 +1,5 @@
 # postcss-rgb-plz [![npm version](https://badge.fury.io/js/postcss-rgb-plz.svg)](http://badge.fury.io/js/postcss-rgb-plz)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhimynameisdave%2Fpostcss-rgb-plz.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhimynameisdave%2Fpostcss-rgb-plz?ref=badge_shield)
 
 
 [PostCSS](https://github.com/postcss/postcss) plugin to convert hex colors to rgb.
@@ -36,3 +37,7 @@ See [PostCSS](https://github.com/postcss/postcss) docs for examples for your env
 Part of the CSS styleguide at my work is to always use rgb values for color, and sometimes I like to use hexes/my preprocessor will convert to hexes. This solves that issue.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhimynameisdave%2Fpostcss-rgb-plz.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhimynameisdave%2Fpostcss-rgb-plz?ref=badge_large)
